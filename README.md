@@ -1,2 +1,3 @@
 # resources
-A list of compiled resources for various projects.
+a list of compiled resources for various projects.
+
